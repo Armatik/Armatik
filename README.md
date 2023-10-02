@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Armatik
-- 👀 I’m interested in python, DevOPS and flashing custom firmware on phone.
-- 🌱 I’m currently learning C, С++, JS
-- 📫 How to reach me e-mail: mail@armatikmedia.ru or telegram @armatiko
+- 👀 I’m interested in linux and python
+- 🌱 I’m currently learning C, С++.
+- 📫 How to reach me e-mail: mail@armatikmedia.ru or telegram @armatik
 
 <!---
 Armatik/Armatik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
