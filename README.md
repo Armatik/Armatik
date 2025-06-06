@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Armatik, and work in BaseALT LLC
+- 👋 Hi, I’m @Armatik, and work in ALT Gnome and ALT Linux Team
 - 👀 I’m interested in linux, GNOME, libadwaita, Vala and Python.
 - 🌱 I’m currently learning Vala
 - 📫 How to reach me e-mail: armatik@alt-gnome.ru or telegram @armatik
